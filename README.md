@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lou</h1>
-<h3 align="center">A passionate C# developer from France (Annecy)</h3>
+<h3 align="center">A passionate OOP/C# developer from France (Annecy)</h3>
 
 - 📫 How to reach me **lou.rassat2003@gmail.com**
 
