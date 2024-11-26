@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lou</h1>
 <h3 align="center">A passionate OOP/C# developer from France (Annecy)</h3>
 
-- 📫 How to reach me **lou.rassat2003@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/lou-rassat-895086257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lou rassat" height="30" width="40" />
 
